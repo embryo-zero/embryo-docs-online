@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Docs Online
+
+**Embryo Docs Online** is Embryo-Zero's fork of [DocumentServer](https://github.com/ONLYOFFICE/DocumentServer), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 [![License](https://img.shields.io/badge/License-GNU%20AGPL%20V3-green.svg?style=flat)](https://docspace.onlyoffice.com/s/gnC2xcxWjHhHmsM) [![Release](https://img.shields.io/github/v/tag/ONLYOFFICE/DocumentServer?sort=semver&style=flat&label=Release&color=blue)](https://github.com/ONLYOFFICE/DocumentServer/tags)
 
 ## Welcome to the ONLYOFFICE Docs repo!
